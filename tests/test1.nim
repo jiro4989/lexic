@@ -1,6 +1,6 @@
 import unittest
 
-include APPNAME
+include lexic
 
 suite "suite":
   test "test":

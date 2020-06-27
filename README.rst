@@ -1,5 +1,5 @@
 ====
-APPNAME
+lexic
 ====
 
 |nimble-version| |nimble-install| |gh-actions|
@@ -28,16 +28,16 @@ Installation
 
 .. code-block:: shell
 
-   $ nimble install -Y APPNAME
+   $ nimble install -Y lexic
 
 LICENSE
 =======
 
 MIT
 
-.. |gh-actions| image:: https://github.com/jiro4989/APPNAME/workflows/build/badge.svg
-   :target: https://github.com/jiro4989/APPNAME/actions
-.. |nimble-version| image:: https://nimble.directory/ci/badges/APPNAME/version.svg
-   :target: https://nimble.directory/ci/badges/APPNAME/nimdevel/output.html
-.. |nimble-install| image:: https://nimble.directory/ci/badges/APPNAME/nimdevel/status.svg
-   :target: https://nimble.directory/ci/badges/APPNAME/nimdevel/output.html
+.. |gh-actions| image:: https://github.com/jiro4989/lexic/workflows/build/badge.svg
+   :target: https://github.com/jiro4989/lexic/actions
+.. |nimble-version| image:: https://nimble.directory/ci/badges/lexic/version.svg
+   :target: https://nimble.directory/ci/badges/lexic/nimdevel/output.html
+.. |nimble-install| image:: https://nimble.directory/ci/badges/lexic/nimdevel/status.svg
+   :target: https://nimble.directory/ci/badges/lexic/nimdevel/output.html
